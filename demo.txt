@@ -1,0 +1,5 @@
+
+命令：
+	git add 把文件添加到暂存区
+	git commit -m '本次提交的说明，可以输入任何内容'
+	git status 查看仓库当前的状态
